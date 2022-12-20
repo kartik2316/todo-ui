@@ -1,0 +1,8 @@
+.maincomponent {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px 20px 20px 20px;
+  gap: 10px;
+  background-color: rgb(164, 239, 245);
+}
